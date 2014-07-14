@@ -1,0 +1,5 @@
+[$XDG_CONFIG_HOME/vcsh/repo.d/vundle.git]
+checkout  = VCSH_BASE=~/.vim/bundle/vundle vcsh clone git://github.com/gmarik/vundle.git vundle
+update    = vcsh vundle pull
+status    = vcsh vundle status
+gc        = vcsh vundle gc

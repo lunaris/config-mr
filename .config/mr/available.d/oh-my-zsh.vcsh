@@ -1,0 +1,5 @@
+[$XDG_CONFIG_HOME/vcsh/repo.d/oh-my-zsh.git]
+checkout  = VCSH_BASE=~/.oh-my-zsh vcsh clone git://github.com/robbyrussell/oh-my-zsh.git oh-my-zsh
+update    = vcsh oh-my-zsh pull
+status    = vcsh oh-my-zsh status
+gc        = vcsh oh-my-zsh gc

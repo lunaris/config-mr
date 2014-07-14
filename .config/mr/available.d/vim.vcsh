@@ -1,0 +1,5 @@
+[$XDG_CONFIG_HOME/vcsh/repo.d/vim.git]
+checkout  = vcsh clone https://github.com/lunaris/config-vim.git vim
+update    = vcsh vim pull
+status    = vcsh vim status
+gc        = vcsh vim gc
