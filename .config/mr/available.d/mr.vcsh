@@ -1,2 +1,2 @@
 [$XDG_CONFIG_HOME/vcsh/repo.d/mr.git]
-checkout = vcsh clone git://github.com/lunaris/vcsh-mr.git mr
+checkout = vcsh clone git://github.com/lunaris/config-mr.git mr
