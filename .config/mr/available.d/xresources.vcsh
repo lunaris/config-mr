@@ -1,4 +1,4 @@
-[$XDG_CONFIG_HOME/vcsh/repo.d/vim.git]
+[$XDG_CONFIG_HOME/vcsh/repo.d/xresources.git]
 checkout  = vcsh clone https://github.com/lunaris/config-xresources.git xresources
 update    = vcsh xresources pull
 status    = vcsh xresources status
