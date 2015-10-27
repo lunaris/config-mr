@@ -1,0 +1,5 @@
+[$XDG_CONFIG_HOME/vcsh/repo.d/neobundle.vim.git]
+checkout  = VCSH_BASE=~/.vim/bundle/neobundle.vim vcsh clone git://github.com/Shougo/neobundle.vim neobundle.vim
+update    = vcsh neobundle pull
+status    = vcsh neobundle status
+gc        = vcsh neobundle gc
